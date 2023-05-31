@@ -1,0 +1,59 @@
+.oject1 {
+
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+
+}
+
+.img:hover{
+    cursor: pointer;
+   
+}
+
+
+
+
+
+.thongTin {
+    padding-left: 4px;
+}
+
+.img {
+    object-fit: cover;
+    height: 150px;
+    width: 100%;
+
+}
+
+.name {
+
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.friends {
+    color: gray;
+    font-size: 7px;
+    font-family: Roboto;
+}
+
+.button-add {
+    font-size: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 9px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 2px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+
+    column-gap: 10px;
+}

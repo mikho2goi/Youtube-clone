@@ -1,0 +1,22 @@
+p{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.giaTien{
+font-size: 30px;
+}
+.dolla{
+color: gray;
+}
+.giaTriTang{
+color: green;
+margin-top: 3px;
+}
+.thoiGian{
+color: gray;
+margin-top: 5px;
+}
+.giaTriGiam{
+color: red;
+}

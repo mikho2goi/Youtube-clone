@@ -1,0 +1,80 @@
+p{
+      
+    margin-top: 0px;
+    font-family: Arial;
+}
+.Tahoma-font{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.Arial-font{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.arial1{
+    color: red;
+    font-family: Arial;
+    font-style: italic;
+}
+
+
+
+
+.Verdana1{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: Verdana;
+    font-weight: bold;
+    margin-bottom: 3px ;
+}     
+.Verdana2{
+    font-family: Verdana;
+    font-size: 20px;
+    color: gray;
+}
+.Verdana3{
+    font-family: Verdana;
+    font-size: 17px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.button-5c{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bt5d{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.bt5d2{
+    text-align: center;
+    font-size: 25px;
+}
+.bt5d3{
+    text-align: center;
+    color: blue;
+    text-align: center;
+    cursor: pointer;
+}
+.ml{
+    text-align: center;
+}
+
+
+
+

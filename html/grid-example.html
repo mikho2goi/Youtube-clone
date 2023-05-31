@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>grid-example</title>
+        <link rel="stylesheet" href="/css/grid-example.css">
+    </head>
+    <body>
+        <div class style="margin-bottom: 25px;
+        display: grid;
+        grid-template-columns: 200px 75px;
+        ">
+
+            <div  style="background-color: blue;">200px</div>
+            <div  style="background-color: red;">75px</div>
+        </div>
+
+        <div class style="
+        display: grid;
+        grid-template-columns: 50px 1fr 75px ;">
+        <div style="background-color: blue;">col1</div>
+        <div style="background-color: red;">col2</div>
+        <div style="background-color: blue;">col3</div>
+        </div>
+
+        <div  style="
+        margin-top: 25px;
+        display: grid;
+        grid-template-columns: 50px 50px 50px;
+        column-gap: 20px;
+        row-gap: 10px;
+        " >
+        <div style="background-color: blueviolet;" >col1</div>
+        <div style="background-color: blueviolet;" >col2</div>
+        <div style="background-color: blueviolet;" >col3</div>
+        <div style="background-color: blueviolet;" >col4</div>
+        <div style="background-color: blueviolet;" >col5</div>
+        <div style="background-color: blueviolet;" >col6</div>   
+    </div>
+
+
+    </body>
+</html>

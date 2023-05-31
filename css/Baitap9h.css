@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+}
+
+.google-logo{
+    width: 100px;
+    margin-bottom: 0px;
+}
+.google-search{
+
+    margin-bottom: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 50px;
+    font-size: 8px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.button-search,.button-feeling{
+    text-align: center;
+    font-size: 9px;
+    border: none;
+    padding: 5px;
+}

@@ -1,0 +1,66 @@
+.Verticle-bar{
+    
+    position: fixed;
+    top: 68px;
+    bottom: 0px;    
+    width: 200px;
+    left: 12px;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+
+}
+.container{
+    margin-bottom: 12px;
+    border-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 12px;
+    border-color: rgb(231, 231, 231);
+}
+
+.feature{
+    height:40px;
+    display: flex;
+    padding-right: 6px;
+    padding-left: 14px;
+    padding-top: 11px;
+    border-radius: 6px;
+    border: none;
+    width: 100%;
+    background-color: white;
+    cursor: pointer;
+    white-space: nowrap;
+
+
+}
+.feature:hover{
+    background-color: rgb(228, 228, 228);
+
+}
+.feature:focus{
+    background-color: rgb(228, 228, 228);
+}
+.icon{
+    width: 20px;
+    margin-right: 26px;
+}
+
+.name{
+    font-family: Roboto,Arial;
+    font-size: 14px;
+    padding-bottom: 5px;
+   
+}
+.name-container{
+    font-family: Roboto,Arial;
+    font-size: 16px;
+    margin-top: 7px;
+    margin-left: 12px;
+    margin-bottom: 6px;
+}
+.img-sidebar-author{
+    width: 26px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 13px;
+}

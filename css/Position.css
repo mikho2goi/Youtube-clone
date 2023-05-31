@@ -1,0 +1,39 @@
+body{
+    padding-bottom: 3000px;
+}
+.sidebar{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: green;
+    width: 100px;
+}
+.modal{
+    position: fixed;
+    top: 300px;
+    bottom: 500px;
+    left: 700px;
+    right: 50px;
+    width: auto;
+    height: 150px;
+    background-color: white;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.title{
+    font-weight: bold;
+    font-size: 50px;
+}
+.intro{
+    font-size: 30px;
+}
+body{
+    background-color: gray;
+}
+.close{
+    margin-top: 10px;
+    font-size: 20px;
+    width: 60px;
+    height: 30px;
+}

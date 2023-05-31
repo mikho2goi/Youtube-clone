@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.trangThai{
+    color: red;
+}
+
+.tenSanPham{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.quangCao{
+    font-size: 35px;
+    font-weight: bold;
+
+}
+.gia{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.mua{
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
