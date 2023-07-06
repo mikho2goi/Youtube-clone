@@ -21,6 +21,7 @@ php artisan db:seed
  ```bash
 php artisan storage:link
 ```
+ ##### Các lệnh chạy server
  ```bash
 php artisan serve
 ``` 
